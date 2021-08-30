@@ -112,9 +112,7 @@ Reference docs: [ARC-4](https://github.com/jannotti/ARCs/blob/abi/ARCs/arc-0004.
 ### ASA State Observer on TestNet
 The ASA State Observer has been [deployed on TestNet](https://testnet.algoexplorer.io/application/24248443).
 
-You can test the App with GOAL CLI calling the `AsaAmountGe` method 
-to verify that `TARGET_ACCOUNT_ADDRESS` owns an amount of 
-`TARGET_ASSET_ID`greter or equal to `0`:
+You can try the App with GOAL CLI calling the `AsaAmountGe` method to verify that a given `TARGET_ACCOUNT_ADDRESS` owns an amount of a given `TARGET_ASSET_ID` greter or equal to `0`:
 ```shell
 ./goal app call
 --app-id 24248443
