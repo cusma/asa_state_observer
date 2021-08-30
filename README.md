@@ -1,6 +1,6 @@
 # ASA State Observer
 The ASA State Observer is an Algorand dApp that exposes a set of methods to
-asserts conditions on Account's ASAs state.
+assert conditions on Account's ASAs state.
 
 The ASA State Observer can be used in combination with other Apps or Contract
 Accounts.
@@ -126,6 +126,4 @@ to verify that `TARGET_ACCOUNT_ADDRESS` owns an amount of
 ```
 
 ### Unit Tests
-The ASA State Observer methods have been tested with the [library 
-`algoapp_method_unittest`](https://github.com/cusma/algoapp_method_unittest), 
-to provide an example of app's methods unit tests.
+The ASA State Observer methods has been tested with the [library `algoapp_method_unittest`](https://github.com/cusma/algoapp_method_unittest), to provide an example of app's methods unit tests.
