@@ -126,5 +126,6 @@ to verify that `TARGET_ACCOUNT_ADDRESS` owns an amount of
 ```
 
 ### Unit Tests
-The ASA State Observer methods have been tested with the library 
-`algoapp_method_unittest`, to provide an example of app's methods unit tests.
+The ASA State Observer methods have been tested with the [library 
+`algoapp_method_unittest`](https://github.com/cusma/algoapp_method_unittest), 
+to provide an example of app's methods unit tests.
